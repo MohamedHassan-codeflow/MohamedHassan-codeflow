@@ -1,5 +1,11 @@
-## Hi there 👋
+![Banner](My Cover.png)
 
+# Hi, I'm Mohamed Hassan 👋
+
+Automation & Software Developer  
+Electronics & Communication Engineer
+
+Python | VBA | Web Development | AI
 <!--
 **MohamedHassan-codeflow/MohamedHassan-codeflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

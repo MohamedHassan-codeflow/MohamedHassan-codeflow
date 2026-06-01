@@ -1,4 +1,4 @@
-![Banner](Cover.png)
+![Banner](2nd Cover.png)
 
 # Hi there 👋, I'm Mohamed Hassan
 

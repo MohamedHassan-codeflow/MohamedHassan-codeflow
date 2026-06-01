@@ -15,10 +15,29 @@
 
 ## 🚀 Technologies & Tools
 
+### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite,github,vscode" />
 </p>
 
+### 📊 Data & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+### 📡 Telecom & Network Operations
+<p>
+  <img src="https://img.shields.io/badge/Ericsson-002561?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ENM-Ericsson-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AMOS-Ericsson-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SDE-Ericsson-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IMK-Ericsson-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ECO-Ericsson-blue?style=for-the-badge">
+</p>
 ---
 
 ## 📊 Featured Skills
